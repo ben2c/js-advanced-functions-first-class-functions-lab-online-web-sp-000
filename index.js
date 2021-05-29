@@ -16,3 +16,4 @@ const createFareMultiplier = function(x) {
 }
 
 const fareDoubler = createFareMultiplier(2)
+
